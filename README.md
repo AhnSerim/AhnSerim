@@ -5,18 +5,9 @@
     🐧🐧 
     <img src="https://github.com/user-attachments/assets/3694563c-55d0-484e-9660-884145cdbb54" width="20"/>
   </h3>
-  <a href="https://github.com/devxb/gitanimals">
+ <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{AhnSerim}"/>
 </a>
-  <a href="https://www.gitanimals.org/" align="center">
-      <img
-        src="https://render.gitanimals.org/guilds/668749238833660322/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-        align="center"
-      />
-    </a>
 </div>
 **AhnSerim/AhnSerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
